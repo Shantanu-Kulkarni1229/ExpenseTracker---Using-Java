@@ -1,0 +1,6 @@
+Food
+Utilities
+Entertainment
+Transport
+Miscellaneous
+books
